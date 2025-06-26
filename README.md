@@ -91,3 +91,47 @@ High-fidelity (hi-fi) wireframes are advanced, detailed representations of a dig
 - **Developer Handoff:** Provide precise specs for coding.
 
 - **Marketing & Sales Demos:** Present a realistic preview of the product.
+
+
+# Popular Wireframing Tools
+
+Here are some of the most widely used tools for wireframing, ranging from simple sketching apps to advanced design platforms:
+
+| Tool | Best For | Key Features |
+| ---- | ---- | ---- |
+| Figma | High-fidelity wireframes & collaboration | Real-time teamwork, prototyping, design systems |
+| Adobe XD | Interactive wireframes & UI/UX design | Auto-animate, voice prototyping, Adobe ecosystem |
+| Sketch | macOS-based UI design | Symbols, plugins, vector-based editing |
+| Balsamiq | Quick low-fidelity wireframes | Drag-and-drop, sketch-style UI, simplicity |
+| Axure RP | Complex interactive prototypes | Conditional logic, dynamic content, documentation |
+| Pen & Paper | Brainstorming & rapid ideation | Fast, no learning curve, great for early stages |
+
+
+### Why is Figma the Top Choice for Wireframing?
+
+Figma has become the industry-leading tool for wireframing and UI/UX design, thanks to its cloud-based collaboration, versatility, and powerful features.
+
+<ins>**Key Features of Figma for Wireframing:**</ins>
+
+- **Real-Time Collaboration:** Multiple designers can work simultaneously (great for teams).
+  
+- **Components & Styles:** Reusable buttons, headers, and grids for consistency.
+  
+- **Prototyping:** Turn wireframes into clickable demos without another tool.
+  
+- **Auto Layout:** Responsive design adjustments (perfect for different screen sizes).
+  
+- **Plugins & Templates:** Speed up work with UI kits (e.g., Wireframe Kit, Material Design).
+  
+- **Cloud-Based:** No need to save files; everything updates live.
+  
+- **Free Tier Available:** Great for freelancers and small teams.
+
+
+### Why Use Figma Over Others?
+
+- **No need to switch tools** – Go from wireframing → prototyping → final design in one place.
+
+- **Better for feedback** – Stakeholders can provide direct comments on the design.
+
+- **Works on any OS** (Windows, macOS, Linux, even in-browser).
