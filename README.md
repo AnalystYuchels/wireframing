@@ -41,3 +41,23 @@ A SaaS landing page wireframe places a headline at the top, a demo video in the 
 - **Example:**
 
 A mobile app wireframe shows a hamburger menu icon, a search bar with a magnifying glass, and a "Submit" button in a contact form.
+
+
+# Types of Wireframes
+
+| Aspect | Low-Fidelity Wireframes | High-Fidelity Wireframes |
+| ---- | ---- | ---- |
+| Detail Level | Basic, rough sketches (boxes, lines, placeholders) | Refined, closer to final design (actual content, images, typography) |
+| Visual Design | No colors, fonts, or styling (grayscale) | Includes branding, fonts, colors, and UI elements |
+| Interactivity | Static (no clickable elements) | May include interactive elements (buttons, dropdowns, hover states) |
+| Purpose | Early brainstorming, layout validation, quick iterations | Detailed usability testing, stakeholder presentations, developer handoff |
+| Tools Used | Pen & paper, Balsamiq, Figma (basic shapes) | Figma, Adobe XD, Sketch (detailed components) |
+| When Used | Early stages (concept exploration, initial feedback) | Mid-to-late stages (refining UI, finalizing interactions before prototyping) |
+| Pros | Fast to create, easy to modify, focuses on structure | Realistic preview, better for user testing, aligns with final design |
+| Cons | Lacks detail, may not reflect final UX | Time-consuming, harder to change after approval |
+
+
+### **When to Use Each Type**
+<ins>**Low-Fi:**</ins> Best for early ideation, team discussions, and quick iterations.
+
+<ins>**High-Fi:**</ins> Used for client presentations, usability testing, and guiding developers before final UI design.
